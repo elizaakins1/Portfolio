@@ -1,0 +1,18 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "This is my website where i write about everything i do and showcase my projects.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d Portfolio"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elizaakins1/Portfolio.git"
+  },
+  "author": "Elizabeth Akindele",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
